@@ -11,6 +11,8 @@ i like to make / break things
 <h3>significant things im making</h3>
 <h4> - wurst+ csgo [c++]</h4>
 
+<h5> list is small bc ive only been programming a little over a year & im the king of making half finished shit </h5>
+
 <h3>if you want to make something together or want me to make something for you my discord is travis#1234</h3>
 
 
