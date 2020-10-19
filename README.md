@@ -13,7 +13,4 @@ i like to make / break things
 
 <h5> list is small bc ive only been programming a little over a year & im the king of making half finished shit </h5>
 
-<h3>if you want to make something together or want me to make something for you my discord is travis#1234</h3>
-
-
 <p> <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="trvsf" /> </p>
