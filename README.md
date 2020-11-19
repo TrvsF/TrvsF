@@ -5,7 +5,6 @@ i like to make / break things
 
 <h3>significant things ive made</h3>
 <h4> - wurst+ & wurst+2 [java]</h4>
-<h4> - english checkers game / ai (with αβ pruning) [c#]</h4>
 <h4> - csgo trade up finder [py]</h4>
 
 <h3>significant things im making</h3>
