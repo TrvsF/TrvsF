@@ -1,6 +1,6 @@
 <h1>
-hello, my name is travis, i like to make/break things<br>
-currently studying AI
+My name is travis, i like to make/break things<br>
+Currently studying AI
 </h1>
 <h3>things ive made (& finished)⠀⠀⠀⠀⠀⠀⠀⠀⠀contact</h3>
 <h4>- wurst+, wurst+2, & wurst+3 [java]⠀⠀⠀⠀        ⠀⠀⠀⠀- discord : travis#0001</h4>
