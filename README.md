@@ -1,4 +1,4 @@
-<div style = "text-align: center;">
+<div align = "center">
 <h1>
 my name is travis, im studying ai
 </h1>
