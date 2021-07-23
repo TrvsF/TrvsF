@@ -1,6 +1,6 @@
 <div align = "center">
 <h1>
-my name is travis, im studying ai
+my name is travis, i am studying ai
 </h1>
 <h3>things ive made (& finished)</h3>
 wurst+, wurst+2, & wurst+3 [java]<br/>
