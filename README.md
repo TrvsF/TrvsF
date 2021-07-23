@@ -12,4 +12,4 @@ my name is travis, im studying ai
 <h5>list is small bc ive only been programming a little over 2 years & im the king of making half finished shit</h5>
 <h5>no, i won't help you wtih anything related to my past [discontinued] projects</h5>
 
-<p> <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="trvsf" /> <img src="https://img.shields.io/github/followers/trvsf" alt="trvsf" />  <img src="https://img.shields.io/badge/gamer-dub-ff69b4" alt="trvsf" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="trvsf" /> <img src="https://img.shields.io/github/followers/trvsf" alt="trvsf" />  <img src="https://img.shields.io/badge/gamer-dub-ff69b4" alt="trvsf" /> <img src="https://img.shields.io/badge/my%20music%20taste%20is-better%20than%20urs-success" alt="trvsf" />  </p>
