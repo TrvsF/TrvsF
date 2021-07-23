@@ -3,7 +3,7 @@ my name is travis, im studying ai
 </h1>
 <h3>things ive made (& finished)⠀⠀⠀⠀⠀⠀⠀⠀⠀contact</h3>
 <ul>
-<li>wurst+, wurst+2, & wurst+3 [java]⠀⠀⠀⠀        ⠀⠀ ⠀• discord : travis#0001</li>
+<li>wurst+, wurst+2, & wurst+3 [java]⠀⠀⠀⠀        ⠀⠀  ⠀• discord : travis#0001</li>
 <li>game of life simulator [java]⠀⠀⠀⠀⠀⠀⠀⠀⠀  　  ⠀⠀    • twitter : @TrvsF</li>
 <li>checkers game with AI [java]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠀• carrier pigeon : 53.374430557712145, -1.4745331855137598 </li>
 <li>csgo trade up finder [py]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀ ⠀ • meet & greet : ur local spoons</li>
