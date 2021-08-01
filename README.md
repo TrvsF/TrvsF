@@ -17,7 +17,7 @@ list is small bc ive only been programming a little over 2 years & im the king o
 PLEASE STOP ASKING FOR HELP WITH STUFF I DONT MAKE ANYMORE</h5>
 
 <img src = "https://media.discordapp.net/attachments/836702416920772659/867868500428980234/standard.gif" alt = ":D" width = "100%" />
-<br/>banner by meg^<br>
+<br/>banner by @madmegsox^<br>
 stats for nerds
 <p> <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="trvsf" /> <img src="https://img.shields.io/github/followers/trvsf" alt="trvsf" />  <img src="https://img.shields.io/badge/gamer-dub-ff69b4" alt="trvsf" /> <img src="https://img.shields.io/badge/my%20music%20taste%20is-better%20than%20urs-success" alt="trvsf" /> </p>
 </div>
