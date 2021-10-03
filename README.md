@@ -14,7 +14,7 @@ meet & greet : ur local spoons<br/>
 discord : travis#0001<br/>
 twitter : @TrvsF<br/>
 carrier pigeon : 53.374430557712145, -1.4745331855137598<br/>
-<h5>if you actually want to talk to me twitter or the wurst+3 discord server is ur best bet, my discord added list is too far gone<br/>
+<h5>if you actually want to talk to me my twitter dms are open, my discord added list is too far gone<br/>
 list is small bc ive only been programming a little over 2 years & im the king of making half finished shit<br/>
 PLEASE STOP ASKING FOR HELP WITH STUFF I DONT MAKE/DO ANYMORE</h5>
 
