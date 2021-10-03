@@ -7,6 +7,8 @@ wurst+, wurst+2, & wurst+3 [java]<br/>
 game of life simulator [java]<br/>
 checkers game with AI [java][c#]<br/>
 csgo trade up finder [py]<br/>
+      <br/>
+      also working on a thing or two ;)
 <h3>contact (make an issue for my email)</h3>
 meet & greet : ur local spoons<br/>
 discord : travis#0001<br/>
