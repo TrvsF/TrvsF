@@ -10,7 +10,6 @@ csgo trade up finder [py]<br/>
       <br/>
       also working on a thing or two ;)
 <h3>contact</h3>
-meet & greet : ur local spoons<br/>
 discord : travis#0001<br/>
 twitter : @TrvsF<br/>
 carrier pigeon : 53.374430557712145, -1.4745331855137598<br/>
