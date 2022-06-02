@@ -6,7 +6,7 @@
  [java][c#] checkers game with AI <br>
  [py] csgo trade up finder <br>
  [c++] POGame/GeneticAlgorithm <br> 
-<b>if you would like to speak to me send a dm here : https://twitter.com/trvsf</b><br><br>
+<b>https://twitter.com/trvsf</b><br><br>
 <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="trvsf" />
 <img src="https://img.shields.io/github/followers/trvsf" alt="trvsf" />
 <a href = "https://steamcommunity.com/id/TravisF/"><img src="https://img.shields.io/badge/gamer-dub-ff69b4" alt="trvsf" /></a>
