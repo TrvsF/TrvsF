@@ -5,6 +5,7 @@
  [java] game of life simulator <br>
  [java][c#] checkers game with AI <br>
  [py] csgo trade up finder <br>
+ [py] tf2 killstreak kit sniper <br>
  [c++] POGame/GeneticAlgorithm <br> 
 <b>https://twitter.com/trvsf</b><br><br>
 <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="trvsf" />
