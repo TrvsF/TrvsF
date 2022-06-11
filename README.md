@@ -1,5 +1,5 @@
 <!--<div align = "center">-->
-<b>my name is travis<br>this is where i keep my, creative, internet things:)
+<b>my name is travis<br>this is where i keep my creative internet things:)
 <br>things ive made (& finished)</b><br>
  [java] wurst+, wurst+2, & wurst+3 <br>
  [java] game of life simulator <br>
