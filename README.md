@@ -4,12 +4,12 @@
  [java] wurst+, wurst+2, & wurst+3 <br>
  [java] game of life simulator <br>
  [java] checkers game with AI <br>
- [py]   csgo tradeup finder <br>
- [py]   tf2 killstreak kit sniper <br>
+ [py]   csgo tradeup finder (p) <br>
+ [py]   tf2 killstreak kit sniper (p) <br>
  [c#]   checkers game with AI (but worse) <br>
  [c#]   monopoly (and *very* basic networking) <br>
  [c++]  POGame/GeneticAlgorithm <br> 
- [c++]  POGengine <br>
+ [c++]  POGengine (p) <br>
 <b>https://twitter.com/trvsf</b><br>
 
 <div>
