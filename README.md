@@ -7,7 +7,7 @@
  [py]   csgo tradeup finder <br>
  [py]   tf2 killstreak kit sniper <br>
  [c#]   checkers game with AI (but worse) <br>
- [c#]   monopoly <br>
+ [c#]   monopoly (and *very* basic networking) <br>
  [c++]  POGame/GeneticAlgorithm <br> 
  [c++]  POGengine <br>
 <b>https://twitter.com/trvsf</b><br>
