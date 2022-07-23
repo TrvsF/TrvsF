@@ -9,7 +9,7 @@
  [c#]   checkers game with AI (but worse) <br>
  [c#]   monopoly (and *very* basic networking) <br>
  [c++]  POGame/GeneticAlgorithm <br> 
- [c++]  POGengine (p) <br>
+ [c++]  POGengine <br>
 <b>https://twitter.com/trvsf</b><br>
 
 <div>
