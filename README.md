@@ -1,17 +1,34 @@
-<b>my name is travis
-<br>this is where i keep things ive made
-<br>things ive made (& finished)</b><br>
- [java] wurst+, wurst+2, & wurst+3 <br>
- [java] game of life simulator <br>
- [java] checkers game with AI <br>
- [py]   csgo tradeup finder [p] <br>
- [py]   tf2 killstreak kit sniper [p] <br>
- [c#]   checkers game with AI (but worse) <br>
- [c#]   monopoly (and *very* basic networking) <br>
- [c++]  POGame/GeneticAlgorithm <br> 
- [c++]  POGengine [d] <br>
-<b>https://twitter.com/trvsf</b><br>
+```
+ my name is travis :))
+ this is where i keep things ive made (& finished!)
 
+ # [java] wurst+, wurst+2, & wurst+3 
+ # a trio of minecraft 'utility mods'
+ 
+ # [java] game of life simulator 
+ # a program that displays conway's gol (you can mess with the sliders too)
+ 
+ # [java/c#] checkers game with AI 
+ # game of checkers with basic game theory tree ai, done twice
+ 
+ # [py] csgo tradeup finder [p] 
+ # a tool for finding profitable tradeups
+ # [py] tf2 killstreak kit sniper [p] 
+ # a tool for sniping items on the steam market 
+
+ # [c#] monopoly & networking
+ # game of monopoly with *very* basic multiplayer
+ 
+ # [c++] POGame
+ # attempt at creating a game engine using sdl2
+ # [c++] POGeneticAlgorithm 
+ # a generational genetic algorithm for navigating mazes
+ 
+ # [c++] POGengine [d] 
+ # attempt at bettering POGame
+ 
+ https://twitter.com/trvsf
+```
 <div>
 <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="trvsf" />
 <img src="https://img.shields.io/github/followers/trvsf" alt="trvsf" />
