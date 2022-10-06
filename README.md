@@ -3,7 +3,7 @@
  this is where i keep things ive made (& finished!)
 
  # [java] wurst+, wurst+2, & wurst+3 
- # a trio of minecraft 'utility mods'
+ # a trio of minecraft 'utility mods', worked on in 2019, 2020, and 2021 respectively
  
  # [java] game of life simulator 
  # a program that displays conway's gol (you can mess with the sliders too)
