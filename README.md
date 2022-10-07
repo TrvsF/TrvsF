@@ -26,8 +26,6 @@
  
  # [c++] POGengine [d] 
  # attempt at bettering POGame
- 
- https://twitter.com/trvsf
 ```
 <div>
 <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="trvsf" />
