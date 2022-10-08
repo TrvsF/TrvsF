@@ -2,29 +2,29 @@
  my name is travis :))
  this is where i keep things ive made (& finished!)
 
- # [java] wurst+, wurst+2, & wurst+3 
+ [java] wurst+, wurst+2, & wurst+3 
  # a trio of minecraft 'utility mods', worked on in 2019, 2020, and 2021 respectively
  
- # [java] game of life simulator 
+ [java] game of life simulator 
  # a program that displays conway's gol (you can mess with the sliders too)
  
- # [java/c#] checkers game with AI 
+ [java/c#] checkers game with AI 
  # game of checkers with basic game theory tree ai, done twice
  
- # [py] csgo tradeup finder [p] 
+ [py] csgo tradeup finder [p] 
  # a tool for finding profitable tradeups
- # [py] tf2 killstreak kit sniper [p] 
+ [py] tf2 killstreak kit sniper [p] 
  # a tool for sniping items on the steam market 
 
- # [c#] monopoly & networking
+ [c#] monopoly & networking
  # game of monopoly with *very* basic multiplayer
  
- # [c++] POGame
+ [c++] POGame
  # attempt at creating a game engine using sdl2
- # [c++] POGeneticAlgorithm 
+ [c++] POGeneticAlgorithm 
  # a generational genetic algorithm for navigating mazes
  
- # [c++] POGengine [d] 
+ [c++] POGengine [d] 
  # attempt at bettering POGame
 
 ```
